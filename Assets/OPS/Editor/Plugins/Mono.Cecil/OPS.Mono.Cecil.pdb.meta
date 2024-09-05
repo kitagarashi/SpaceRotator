@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ddb773cc89e7704bba6eeeb87f0f3bd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89420
+  packageName: Obfuscator Free
+  packageVersion: 5.1.7
+  assetPath: Assets/OPS/Editor/Plugins/Mono.Cecil/OPS.Mono.Cecil.pdb
+  uploadId: 673109

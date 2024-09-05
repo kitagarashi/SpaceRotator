@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca72d0186943bd540aa5d7291be4813b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89420
+  packageName: Obfuscator Free
+  packageVersion: 5.1.7
+  assetPath: Assets/OPS/Editor/Plugins/Mono.Cecil/OPS.Mono.Cecil.Rocks.pdb
+  uploadId: 673109
